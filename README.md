@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## demo app - for docker-compose crash course
 
 
@@ -40,3 +41,7 @@ Step 4: Access you nodejs application UI from browser
 
     http://localhost:3000
     
+=======
+# my-docker-examples
+This repo will have all the practice example i going to related to docker
+>>>>>>> 863423133fdd2184628059d5bf1c3c371cf6a8fb
